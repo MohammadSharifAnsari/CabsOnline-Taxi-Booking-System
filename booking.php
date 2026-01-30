@@ -1,4 +1,4 @@
-<head> 
+<head>       
   <title>Booking</title> 
   <link href="css/bootstrap-combined.min.css" rel="stylesheet">
   <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" type="text/css" media="screen">
@@ -213,3 +213,4 @@ session_write_close();
 	}// end of session
 }
 ?>
+
